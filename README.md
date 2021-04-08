@@ -4,6 +4,10 @@ Reunión quincenal en español inspirada en los eventos PBF (<https://pizza-bugs
 
 **¡Únete a nosotros!**
 
+## Organización
+
+Organizamos el trabajo utilizando el proyecto https://github.com/orgs/Joomla-Bugs-Busters/projects/2
+
 ## Instrucciones para montar un servidor local
 
 ### Descargar Joomla 4
