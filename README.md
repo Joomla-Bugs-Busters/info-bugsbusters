@@ -24,7 +24,6 @@ Para realizar algunas pruebas puede ser necesario utilizar directamente la desca
 ### Instalar Patch Tester
 
 - <https://github.com/joomla-extensions/patchtester/releases>
-- [Versión 3.0.0-Beta4](https://github.com/joomla-extensions/patchtester/releases/tag/3.0.0-beta4)
 
 ### Configurar Patch Tester
 
