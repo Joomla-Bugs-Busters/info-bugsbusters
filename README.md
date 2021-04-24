@@ -43,3 +43,6 @@ Una vez tengas el token ya puedes descargar los *issues* y empezar a probar. Cad
 
 - Preparar entorno de desarrollo joomla
 <https://docs.joomla.org/J4.x:Setting_Up_Your_Local_Environment>
+
+- Info (en inglés) del Bugs & Fun @Home organizado cada sábado por Olivier Buisard
+https://docs.joomla.org/Bugs_%26_Fun_@Home#Getting_Started
