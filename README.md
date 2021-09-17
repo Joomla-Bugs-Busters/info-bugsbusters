@@ -45,3 +45,7 @@ Una vez tengas el token ya puedes descargar los *issues* y empezar a probar. Cad
 
 - Info (en inglés) del Bugs & Fun @Home organizado cada sábado por Olivier Buisard
 https://docs.joomla.org/Bugs_%26_Fun_@Home#Getting_Started
+
+## Generación de contenidos
+
+Si necesitas generar una buena cantidad de artículos o categorías para las pruebas puedes usar [Overload](https://github.com/nikosdion/overload).
